@@ -1,0 +1,3 @@
+. git --amend:digunakan untuk mengubah atau memperbaiki commit terakhir yang baru saja di buat (misalnya memperbaiki pesan commit atau menambah file yang tertinggal) sebelum di-push ke server
+
+. git revert: digunakan untuk membuat commit baru yang isinya membatalkan perubahan dari commit sebelumnya,biasanya dipakai jika kode sudah terlanjur di-push ke github dan ingin di batalkan secara aman tanpa merusak riwayat riwayat commit sebelumnya.
